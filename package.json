@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ravi-bala13/Todo-app-Backend#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^7.0.2"
   }
 }
