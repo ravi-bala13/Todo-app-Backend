@@ -1,0 +1,22 @@
+{
+  "name": "todo-app-backend",
+  "version": "1.0.0",
+  "description": "This repository is having backend code for the todo app already created here(https://github.com/ravi-bala13/Todo-app)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravi-bala13/Todo-app-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ravi-bala13/Todo-app-Backend/issues"
+  },
+  "homepage": "https://github.com/ravi-bala13/Todo-app-Backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
