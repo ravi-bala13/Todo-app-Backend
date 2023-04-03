@@ -1,7 +1,7 @@
 # Description
 This app is build using nodejs, express and Mongodb(database).
 
-# To create vite project and run, follow below commands
+# To create server side or backend project and run, follow below commands
 * npm init to create backend project(it will create package.json)
 * npm install [package name] (by using this we can install needed dependencies)
 * To run a project 
